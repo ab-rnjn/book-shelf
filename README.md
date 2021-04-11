@@ -1,11 +1,11 @@
 ## Backend
 
-Built on node.js
+Built using express and node.js
 
 Command to run :  `npm run server-start`
 
 Source code for server is present in the backend folder inside root dir.
-## Fronted
+## Frontend
 
 Built on React
 
