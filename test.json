@@ -1,0 +1,763 @@
+{
+    "kind": "books#volumes",
+    "totalItems": 2927,
+    "items": [
+        {
+            "kind": "books#volume",
+            "id": "wGSCzQEACAAJ",
+            "etag": "ORxVAMl1eFA",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/wGSCzQEACAAJ",
+            "volumeInfo": {
+                "title": "Sherlock",
+                "authors": [
+                    "Otto Penzler"
+                ],
+                "publishedDate": "2020-12-10",
+                "description": "In 1887, Arthur Conan Doyle put pen to paper and created a legend: Sherlock Holmes. The greatest detective of all time. His tall, slender, hawk-nosed figure with his deerstalker hat is instantly recognizable in every corner of the world. Alongside Doyle's original stories, Sherlock has spawned a literature of his own in parodies and homages. More than 25,000 books, stories and articles have been written by authors, amateurs and scholars. In this stupendous anthology, the best and most brilliant are collected together for the first time. CONTRIBUTORS INCLUDE: Arthur Conan Doyle, James M. Barrie, O. Henry, Stephen King, Kingsley Amis, A.A. Milne, P.G. Wodehouse, Neil Gaiman, Anthony Burgess, Colin Dexter and Anne Perry.",
+                "industryIdentifiers": [
+                    {
+                        "type": "ISBN_10",
+                        "identifier": "1800240287"
+                    },
+                    {
+                        "type": "ISBN_13",
+                        "identifier": "9781800240285"
+                    }
+                ],
+                "readingModes": {
+                    "text": false,
+                    "image": false
+                },
+                "pageCount": 928,
+                "printType": "BOOK",
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": false,
+                "contentVersion": "preview-1.0.0",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=wGSCzQEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=wGSCzQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+                },
+                "language": "en",
+                "previewLink": "http://books.google.co.in/books?id=wGSCzQEACAAJ&dq=sherlock&hl=&cd=1&source=gbs_api",
+                "infoLink": "http://books.google.co.in/books?id=wGSCzQEACAAJ&dq=sherlock&hl=&source=gbs_api",
+                "canonicalVolumeLink": "https://books.google.com/books/about/Sherlock.html?hl=&id=wGSCzQEACAAJ"
+            },
+            "saleInfo": {
+                "country": "IN",
+                "saleability": "NOT_FOR_SALE",
+                "isEbook": false
+            },
+            "accessInfo": {
+                "country": "IN",
+                "viewability": "NO_PAGES",
+                "embeddable": false,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": false
+                },
+                "pdf": {
+                    "isAvailable": false
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=wGSCzQEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+                "accessViewStatus": "NONE",
+                "quoteSharingAllowed": false
+            },
+            "searchInfo": {
+                "textSnippet": "In 1887, Arthur Conan Doyle put pen to paper and created a legend: Sherlock Holmes. The greatest detective of all time. His tall, slender, hawk-nosed figure with his deerstalker hat is instantly recognizable in every corner of the world."
+            }
+        },
+        {
+            "kind": "books#volume",
+            "id": "cQV2DwAAQBAJ",
+            "etag": "K6V1n7r2A5g",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/cQV2DwAAQBAJ",
+            "volumeInfo": {
+                "title": "Sherlock's World",
+                "subtitle": "Fan Fiction and the Reimagining of BBC's Sherlock",
+                "authors": [
+                    "Ann K. McClellan"
+                ],
+                "publishedDate": "2018-11-15",
+                "description": "Interweaving fan fiction studies, world-building, and genre studies, Ann McClellan examines Sherlock and the fan fiction it inspires. Using Sherlock to trace the changing face of fan fiction studies, McClellan's book explores how far fans are willing to go to change the Sherlockian canon while still reinforcing its power and status as the source text. Sherlock's World explores the boundaries between canon, genre, character, and reality through the lenses of fan fiction and world-building. This book promises to be a valuable resource for fan studies scholars, those who write fan fiction, and Sherlock fans alike.",
+                "industryIdentifiers": [
+                    {
+                        "type": "ISBN_13",
+                        "identifier": "9781609386160"
+                    },
+                    {
+                        "type": "ISBN_10",
+                        "identifier": "1609386167"
+                    }
+                ],
+                "readingModes": {
+                    "text": false,
+                    "image": true
+                },
+                "pageCount": 286,
+                "printType": "BOOK",
+                "categories": [
+                    "Performing Arts"
+                ],
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": false,
+                "contentVersion": "preview-1.0.0",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=cQV2DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=cQV2DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+                },
+                "language": "en",
+                "previewLink": "http://books.google.co.in/books?id=cQV2DwAAQBAJ&pg=PA109&dq=sherlock&hl=&cd=2&source=gbs_api",
+                "infoLink": "http://books.google.co.in/books?id=cQV2DwAAQBAJ&dq=sherlock&hl=&source=gbs_api",
+                "canonicalVolumeLink": "https://books.google.com/books/about/Sherlock_s_World.html?hl=&id=cQV2DwAAQBAJ"
+            },
+            "saleInfo": {
+                "country": "IN",
+                "saleability": "NOT_FOR_SALE",
+                "isEbook": false
+            },
+            "accessInfo": {
+                "country": "IN",
+                "viewability": "PARTIAL",
+                "embeddable": true,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": false
+                },
+                "pdf": {
+                    "isAvailable": false
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=cQV2DwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+                "accessViewStatus": "SAMPLE",
+                "quoteSharingAllowed": false
+            },
+            "searchInfo": {
+                "textSnippet": "As in “The Love Song of John H. Watson,” \u003cb\u003eSherlock&#39;s\u003c/b\u003e fingers become metonyms \u003cbr\u003e\nfor \u003cb\u003eSherlock&#39;s\u003c/b\u003e penis and a site of fetishized desire. Another major component of \u003cbr\u003e\nJohn&#39;s attraction to \u003cb\u003eSherlock\u003c/b\u003e is his voice. Many fans and media critics have&nbsp;..."
+            }
+        },
+        {
+            "kind": "books#volume",
+            "id": "FVgEAAAAQAAJ",
+            "etag": "EPjMrfFw2EY",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/FVgEAAAAQAAJ",
+            "volumeInfo": {
+                "title": "The practical Christian: or The devout penitent, ed. by H.H. Sherlock",
+                "authors": [
+                    "Richard Sherlock"
+                ],
+                "publishedDate": "1849",
+                "industryIdentifiers": [
+                    {
+                        "type": "OTHER",
+                        "identifier": "OXFORD:590906284"
+                    }
+                ],
+                "readingModes": {
+                    "text": false,
+                    "image": true
+                },
+                "printType": "BOOK",
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": false,
+                "contentVersion": "0.3.4.0.full.1",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=FVgEAAAAQAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=FVgEAAAAQAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+                },
+                "language": "en",
+                "previewLink": "http://books.google.co.in/books?id=FVgEAAAAQAAJ&pg=PR20&dq=sherlock&hl=&cd=3&source=gbs_api",
+                "infoLink": "https://play.google.com/store/books/details?id=FVgEAAAAQAAJ&source=gbs_api",
+                "canonicalVolumeLink": "https://play.google.com/store/books/details?id=FVgEAAAAQAAJ"
+            },
+            "saleInfo": {
+                "country": "IN",
+                "saleability": "FREE",
+                "isEbook": true,
+                "buyLink": "https://play.google.com/store/books/details?id=FVgEAAAAQAAJ&rdid=book-FVgEAAAAQAAJ&rdot=1&source=gbs_api"
+            },
+            "accessInfo": {
+                "country": "IN",
+                "viewability": "ALL_PAGES",
+                "embeddable": true,
+                "publicDomain": true,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": false,
+                    "downloadLink": "http://books.google.co.in/books/download/The_practical_Christian_or_The_devout_pe.epub?id=FVgEAAAAQAAJ&hl=&output=epub&source=gbs_api"
+                },
+                "pdf": {
+                    "isAvailable": true,
+                    "downloadLink": "http://books.google.co.in/books/download/The_practical_Christian_or_The_devout_pe.pdf?id=FVgEAAAAQAAJ&hl=&output=pdf&sig=ACfU3U2MG8sQLYRt5sEecoVdqb2gl0q5sg&source=gbs_api"
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=FVgEAAAAQAAJ&hl=&printsec=frontcover&source=gbs_api",
+                "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+                "quoteSharingAllowed": false
+            },
+            "searchInfo": {
+                "textSnippet": "Richard \u003cb\u003eSherlock\u003c/b\u003e Harold Hopley \u003cb\u003eSherlock\u003c/b\u003e. family . That his parents ten , and with \u003cbr\u003e\ntears begged of were such , an especial instance God to suspend His just deof \u003cbr\u003e\nhis mother &#39; s piety , will not claration of “ visiting the sins be improper to be here&nbsp;..."
+            }
+        },
+        {
+            "kind": "books#volume",
+            "id": "DLToDwAAQBAJ",
+            "etag": "yVYP2iweXH4",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/DLToDwAAQBAJ",
+            "volumeInfo": {
+                "title": "Sherlock Holmes for Christmas",
+                "subtitle": "The Christmas Special (Including All Other Sherlock Holmes Adventures)",
+                "authors": [
+                    "Arthur Conan Doyle"
+                ],
+                "publisher": "e-artnow",
+                "publishedDate": "2019-12-03",
+                "description": "This Christmas, e-artnow presents to you the Christmas case for Sherlock Holmes. This edition includes of course as well the complete collection of all Sherlock Holmes books in one volume. As London prepares for Christmas, newspapers report the theft of the near-priceless gemstone, the \"Blue Carbuncle\", from the hotel suite of the Countess of Morcar. John Horner, a plumber and a previously convicted felon, is soon arrested for the theft. Sherlock Holmes and his assistant Watson set out across the city to determine how the jewel travelled from the Countess of Morcar's hotel room to the goose's crop. Contents: Sherlock's Christmas Case: The Adventure of the Blue Carbuncle A Study in Scarlet The Sign of Four The Hound of the Baskervilles The Valley of Fear A Scandal in Bohemia The Red-Headed League A Case of Identity The Boscombe Valley Mystery The Five Orange Pips The Man with the Twisted Lip The Speckled Band The Engineer's Thumb The Noble Bachelor The Beryl Coronet The Copper Beeches Silver Blaze The Yellow Face The Stock-Broker's Clerk The \"Gloria Scott\" The Musgrave Ritual The Reigate Puzzle The Crooked Man The Resident Patient The Greek Interpreter The Naval Treaty The Final Problem The Empty House The Norwood Builder The Dancing Men The Solitary Cyclist The Priory School The Black Peter The Adventure of Charles Augustus Milverton The Six Napoleons The Three Students The Golden Pince-Nez The Missing Three-Quarter The Abbey Grange The Second Stain The Wisteria Lodge The Red Circle The Cardboard Box The Bruce-Partington Plans The Dying Detective The Disappearance of Lady Frances Carfax The Devil's Foot His Last Bow: An Epilogue of Sherlock Holmes The Illustrious Client The Blanched Soldier The Mazarin Stone The Three Gables The Sussex Vampire The Three Garridebs The Creeping Man The Lion's Mane The Veiled Lodger The Shoscombe Old Place The Retired Colourman The Field Bazaar How Watson Learned the Trick Sherlock Holmes: A Drama in Four Act The Crown Diamond: An Evening with Sherlock Holmes An Intimate Study of Sherlock Holmes",
+                "industryIdentifiers": [
+                    {
+                        "type": "OTHER",
+                        "identifier": "EAN:4057664557148"
+                    }
+                ],
+                "readingModes": {
+                    "text": true,
+                    "image": true
+                },
+                "pageCount": 1680,
+                "printType": "BOOK",
+                "categories": [
+                    "Fiction"
+                ],
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": false,
+                "contentVersion": "1.2.2.0.preview.3",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=DLToDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=DLToDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+                },
+                "language": "en",
+                "previewLink": "http://books.google.co.in/books?id=DLToDwAAQBAJ&pg=PT1713&dq=sherlock&hl=&cd=4&source=gbs_api",
+                "infoLink": "https://play.google.com/store/books/details?id=DLToDwAAQBAJ&source=gbs_api",
+                "canonicalVolumeLink": "https://play.google.com/store/books/details?id=DLToDwAAQBAJ"
+            },
+            "saleInfo": {
+                "country": "IN",
+                "saleability": "FOR_SALE",
+                "isEbook": true,
+                "listPrice": {
+                    "amount": 42.43,
+                    "currencyCode": "INR"
+                },
+                "retailPrice": {
+                    "amount": 42.43,
+                    "currencyCode": "INR"
+                },
+                "buyLink": "https://play.google.com/store/books/details?id=DLToDwAAQBAJ&rdid=book-DLToDwAAQBAJ&rdot=1&source=gbs_api",
+                "offers": [
+                    {
+                        "finskyOfferType": 1,
+                        "listPrice": {
+                            "amountInMicros": 42430000,
+                            "currencyCode": "INR"
+                        },
+                        "retailPrice": {
+                            "amountInMicros": 42430000,
+                            "currencyCode": "INR"
+                        }
+                    }
+                ]
+            },
+            "accessInfo": {
+                "country": "IN",
+                "viewability": "PARTIAL",
+                "embeddable": true,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": true,
+                    "acsTokenLink": "http://books.google.co.in/books/download/Sherlock_Holmes_for_Christmas-sample-epub.acsm?id=DLToDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+                },
+                "pdf": {
+                    "isAvailable": true,
+                    "acsTokenLink": "http://books.google.co.in/books/download/Sherlock_Holmes_for_Christmas-sample-pdf.acsm?id=DLToDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=DLToDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+                "accessViewStatus": "SAMPLE",
+                "quoteSharingAllowed": false
+            },
+            "searchInfo": {
+                "textSnippet": "In \u003cb\u003eSHERLOCK\u003c/b\u003e HOLMES&#39; rooms in Baker Street—the large drawing-room of his \u003cbr\u003e\napartments. An open, cheerful room, but not too much decorated. Rather plain. \u003cbr\u003e\nThe walls are a plain tint, the ceiling ditto. The furniture is comfortable and goody\u003cbr\u003e\n&nbsp;..."
+            }
+        },
+        {
+            "kind": "books#volume",
+            "id": "M9IShPNXhXQC",
+            "etag": "YS5bsOJs+Z4",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/M9IShPNXhXQC",
+            "volumeInfo": {
+                "title": "A biographical sketch of Bishop Sherlock",
+                "authors": [
+                    "Daniel Sheppard WAYLAND"
+                ],
+                "publishedDate": "1823",
+                "industryIdentifiers": [
+                    {
+                        "type": "OTHER",
+                        "identifier": "BL:A0024316317"
+                    }
+                ],
+                "readingModes": {
+                    "text": false,
+                    "image": true
+                },
+                "printType": "BOOK",
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": false,
+                "contentVersion": "0.0.1.0.full.1",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=M9IShPNXhXQC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=M9IShPNXhXQC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+                },
+                "language": "en",
+                "previewLink": "http://books.google.co.in/books?id=M9IShPNXhXQC&pg=PR19&dq=sherlock&hl=&cd=5&source=gbs_api",
+                "infoLink": "https://play.google.com/store/books/details?id=M9IShPNXhXQC&source=gbs_api",
+                "canonicalVolumeLink": "https://play.google.com/store/books/details?id=M9IShPNXhXQC"
+            },
+            "saleInfo": {
+                "country": "IN",
+                "saleability": "FREE",
+                "isEbook": true,
+                "buyLink": "https://play.google.com/store/books/details?id=M9IShPNXhXQC&rdid=book-M9IShPNXhXQC&rdot=1&source=gbs_api"
+            },
+            "accessInfo": {
+                "country": "IN",
+                "viewability": "ALL_PAGES",
+                "embeddable": true,
+                "publicDomain": true,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": false,
+                    "downloadLink": "http://books.google.co.in/books/download/A_biographical_sketch_of_Bishop_Sherlock.epub?id=M9IShPNXhXQC&hl=&output=epub&source=gbs_api"
+                },
+                "pdf": {
+                    "isAvailable": false
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=M9IShPNXhXQC&hl=&printsec=frontcover&source=gbs_api",
+                "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+                "quoteSharingAllowed": false
+            },
+            "searchInfo": {
+                "textSnippet": "As a polemic Dr. \u003cb\u003eSherlock\u003c/b\u003e united his father&#39;s acuteness with his own urbanity . \u003cbr\u003e\nBut it is not on his controversial works that his fame must chiefly rest . Of the \u003cbr\u003e\ndiscourses on prophecy indeed , which are only so far controversial as to have \u003cbr\u003e\nbeen&nbsp;..."
+            }
+        },
+        {
+            "kind": "books#volume",
+            "id": "cU1ODwAAQBAJ",
+            "etag": "Mii9wAcaq0k",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/cU1ODwAAQBAJ",
+            "volumeInfo": {
+                "title": "The Memoirs of Sherlock Holmes. Illustrated edition",
+                "authors": [
+                    "Arthur Conan Doyle"
+                ],
+                "publisher": "Strelbytskyy Multimedia Publishing",
+                "publishedDate": "2018-02-28",
+                "description": "The Memoirs of Sherlock Holmes “Young Holmes and his classmate go to an estate of the father of the latter. A few days later an old acquaintance comes to his father. The guest lives in the house for a while. He frightens the son and hence gets expelled from the house by the owner. Subsequently, the father receives a terrible note that kills him.” \"Near the stall of the horse named Silver a dead coach was found, the horse itself disappeared without a trace” These are only two stories from the collection of \"The Memoirs of Sherlock Holmes\" which consists of 11 detective stories.",
+                "industryIdentifiers": [
+                    {
+                        "type": "OTHER",
+                        "identifier": "PKEY:SMP2200000180056"
+                    }
+                ],
+                "readingModes": {
+                    "text": true,
+                    "image": true
+                },
+                "printType": "BOOK",
+                "categories": [
+                    "Fiction"
+                ],
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": true,
+                "contentVersion": "1.1.2.0.preview.3",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=cU1ODwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=cU1ODwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+                },
+                "language": "en",
+                "previewLink": "http://books.google.co.in/books?id=cU1ODwAAQBAJ&pg=PT187&dq=sherlock&hl=&cd=6&source=gbs_api",
+                "infoLink": "https://play.google.com/store/books/details?id=cU1ODwAAQBAJ&source=gbs_api",
+                "canonicalVolumeLink": "https://play.google.com/store/books/details?id=cU1ODwAAQBAJ"
+            },
+            "saleInfo": {
+                "country": "IN",
+                "saleability": "FOR_SALE",
+                "isEbook": true,
+                "listPrice": {
+                    "amount": 9,
+                    "currencyCode": "INR"
+                },
+                "retailPrice": {
+                    "amount": 9,
+                    "currencyCode": "INR"
+                },
+                "buyLink": "https://play.google.com/store/books/details?id=cU1ODwAAQBAJ&rdid=book-cU1ODwAAQBAJ&rdot=1&source=gbs_api",
+                "offers": [
+                    {
+                        "finskyOfferType": 1,
+                        "listPrice": {
+                            "amountInMicros": 9000000,
+                            "currencyCode": "INR"
+                        },
+                        "retailPrice": {
+                            "amountInMicros": 9000000,
+                            "currencyCode": "INR"
+                        }
+                    }
+                ]
+            },
+            "accessInfo": {
+                "country": "IN",
+                "viewability": "PARTIAL",
+                "embeddable": true,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": true,
+                    "acsTokenLink": "http://books.google.co.in/books/download/The_Memoirs_of_Sherlock_Holmes_Illustrat-sample-epub.acsm?id=cU1ODwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+                },
+                "pdf": {
+                    "isAvailable": true,
+                    "acsTokenLink": "http://books.google.co.in/books/download/The_Memoirs_of_Sherlock_Holmes_Illustrat-sample-pdf.acsm?id=cU1ODwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=cU1ODwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+                "accessViewStatus": "SAMPLE",
+                "quoteSharingAllowed": false
+            },
+            "searchInfo": {
+                "textSnippet": "\u003cb\u003eSherlock\u003c/b\u003e Holmes stopped at a door some little distance from the Carlton, and, \u003cbr\u003e\ncautioning me not to speak, he led the way into the hall. Through the glass \u003cbr\u003e\npaneling I caught a glimpse of a large and luxurious room, in which a \u003cbr\u003e\nconsiderable&nbsp;..."
+            }
+        },
+        {
+            "kind": "books#volume",
+            "id": "irYtmAEACAAJ",
+            "etag": "/ksGGBQojQQ",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/irYtmAEACAAJ",
+            "volumeInfo": {
+                "title": "Sherlock",
+                "subtitle": "An Autobiography",
+                "authors": [
+                    "Eddie \"Sherlock\" Schairer",
+                    "Sherlock"
+                ],
+                "publisher": "Trafford on Demand Pub",
+                "publishedDate": "2009-07",
+                "description": "An autobiography describing childhood in Nazi Germany during WW2, return to the United States, enlistment in the US Navy and contribution to the development and expansion of America's telecommunications network.",
+                "industryIdentifiers": [
+                    {
+                        "type": "ISBN_10",
+                        "identifier": "1425184227"
+                    },
+                    {
+                        "type": "ISBN_13",
+                        "identifier": "9781425184223"
+                    }
+                ],
+                "readingModes": {
+                    "text": false,
+                    "image": false
+                },
+                "pageCount": 436,
+                "printType": "BOOK",
+                "categories": [
+                    "Biography & Autobiography"
+                ],
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": false,
+                "contentVersion": "preview-1.0.0",
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=irYtmAEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=irYtmAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+                },
+                "language": "en",
+                "previewLink": "http://books.google.co.in/books?id=irYtmAEACAAJ&dq=sherlock&hl=&cd=7&source=gbs_api",
+                "infoLink": "http://books.google.co.in/books?id=irYtmAEACAAJ&dq=sherlock&hl=&source=gbs_api",
+                "canonicalVolumeLink": "https://books.google.com/books/about/Sherlock.html?hl=&id=irYtmAEACAAJ"
+            },
+            "saleInfo": {
+                "country": "IN",
+                "saleability": "NOT_FOR_SALE",
+                "isEbook": false
+            },
+            "accessInfo": {
+                "country": "IN",
+                "viewability": "NO_PAGES",
+                "embeddable": false,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": false
+                },
+                "pdf": {
+                    "isAvailable": false
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=irYtmAEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+                "accessViewStatus": "NONE",
+                "quoteSharingAllowed": false
+            },
+            "searchInfo": {
+                "textSnippet": "An autobiography describing childhood in Nazi Germany during WW2, return to the United States, enlistment in the US Navy and contribution to the development and expansion of America&#39;s telecommunications network."
+            }
+        },
+        {
+            "kind": "books#volume",
+            "id": "Cd3vEm59cQcC",
+            "etag": "/I9gaFJpkVk",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/Cd3vEm59cQcC",
+            "volumeInfo": {
+                "title": "Two Complete Sherlock Holmes Novels-A Study in Scarlet and The Sign of Four",
+                "authors": [
+                    "Sir Arthur Conan Doyle"
+                ],
+                "readingModes": {
+                    "text": false,
+                    "image": false
+                },
+                "printType": "BOOK",
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": false,
+                "contentVersion": "1.1.1.0.preview.0",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=Cd3vEm59cQcC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=Cd3vEm59cQcC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+                },
+                "language": "en",
+                "previewLink": "http://books.google.co.in/books?id=Cd3vEm59cQcC&q=sherlock&dq=sherlock&hl=&cd=8&source=gbs_api",
+                "infoLink": "http://books.google.co.in/books?id=Cd3vEm59cQcC&dq=sherlock&hl=&source=gbs_api",
+                "canonicalVolumeLink": "https://books.google.com/books/about/Two_Complete_Sherlock_Holmes_Novels_A_St.html?hl=&id=Cd3vEm59cQcC"
+            },
+            "saleInfo": {
+                "country": "IN",
+                "saleability": "NOT_FOR_SALE",
+                "isEbook": false
+            },
+            "accessInfo": {
+                "country": "IN",
+                "viewability": "NO_PAGES",
+                "embeddable": false,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": false
+                },
+                "pdf": {
+                    "isAvailable": false
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=Cd3vEm59cQcC&hl=&printsec=frontcover&source=gbs_api",
+                "accessViewStatus": "NONE",
+                "quoteSharingAllowed": false
+            }
+        },
+        {
+            "kind": "books#volume",
+            "id": "DYWpZhiUvnEC",
+            "etag": "zF8xZWIrFt4",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/DYWpZhiUvnEC",
+            "volumeInfo": {
+                "title": "Sherlock: The Adventures of Sherlock Holmes",
+                "authors": [
+                    "Arthur Conan Doyle"
+                ],
+                "publisher": "Random House",
+                "publishedDate": "2011-10-27",
+                "description": "The hit BBC series Sherlock, starring Benedict Cumberbatch, offers a fresh, contemporary take on the classic Sir Arthur Conan Doyle stories, and has helped introduce a whole new generation of fans to the legendary detective. In this new edition of Conan Doyle's first collection of short stories, Sherlock co-creator Mark Gatiss explains how these gripping tales inspired and influenced the new series. Sherlock: The Adventures contains twelve short stories first published in The Strand magazine between 1891 and 1892 and then published as a collection in October 1892. It includes some of Conan Doyle's best tales of murder and mystery, such as 'The Adventures of the Speckled Band', in which the strange last words of a dying woman 'It was the band, the speckled band!' and an inexplicable whistling in the night are the only clues Sherlock Holmes has to prevent another murder; and 'The Five Orange Pips', in which an untimely death and the discovery of the letter containing five orange pips lead to a cross-Atlantic conspiracy.",
+                "industryIdentifiers": [
+                    {
+                        "type": "ISBN_13",
+                        "identifier": "9781446417188"
+                    },
+                    {
+                        "type": "ISBN_10",
+                        "identifier": "1446417182"
+                    }
+                ],
+                "readingModes": {
+                    "text": true,
+                    "image": false
+                },
+                "pageCount": 336,
+                "printType": "BOOK",
+                "categories": [
+                    "Fiction"
+                ],
+                "averageRating": 3.5,
+                "ratingsCount": 3,
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": true,
+                "contentVersion": "0.9.7.0.preview.2",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=DYWpZhiUvnEC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=DYWpZhiUvnEC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+                },
+                "language": "en",
+                "previewLink": "http://books.google.co.in/books?id=DYWpZhiUvnEC&printsec=frontcover&dq=sherlock&hl=&cd=9&source=gbs_api",
+                "infoLink": "https://play.google.com/store/books/details?id=DYWpZhiUvnEC&source=gbs_api",
+                "canonicalVolumeLink": "https://play.google.com/store/books/details?id=DYWpZhiUvnEC"
+            },
+            "saleInfo": {
+                "country": "IN",
+                "saleability": "FOR_SALE",
+                "isEbook": true,
+                "listPrice": {
+                    "amount": 251.34,
+                    "currencyCode": "INR"
+                },
+                "retailPrice": {
+                    "amount": 135.72,
+                    "currencyCode": "INR"
+                },
+                "buyLink": "https://play.google.com/store/books/details?id=DYWpZhiUvnEC&rdid=book-DYWpZhiUvnEC&rdot=1&source=gbs_api",
+                "offers": [
+                    {
+                        "finskyOfferType": 1,
+                        "listPrice": {
+                            "amountInMicros": 251340000,
+                            "currencyCode": "INR"
+                        },
+                        "retailPrice": {
+                            "amountInMicros": 135720000,
+                            "currencyCode": "INR"
+                        }
+                    }
+                ]
+            },
+            "accessInfo": {
+                "country": "IN",
+                "viewability": "PARTIAL",
+                "embeddable": true,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+                "epub": {
+                    "isAvailable": true,
+                    "acsTokenLink": "http://books.google.co.in/books/download/Sherlock_The_Adventures_of_Sherlock_Holm-sample-epub.acsm?id=DYWpZhiUvnEC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+                },
+                "pdf": {
+                    "isAvailable": false
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=DYWpZhiUvnEC&hl=&printsec=frontcover&source=gbs_api",
+                "accessViewStatus": "SAMPLE",
+                "quoteSharingAllowed": false
+            },
+            "searchInfo": {
+                "textSnippet": "The hit BBC series Sherlock, starring Benedict Cumberbatch, offers a fresh, contemporary take on the classic Sir Arthur Conan Doyle stories, and has helped introduce a whole new generation of fans to the legendary detective."
+            }
+        },
+        {
+            "kind": "books#volume",
+            "id": "UomtUqgaJlkC",
+            "etag": "dSsKxK+4oXk",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/UomtUqgaJlkC",
+            "volumeInfo": {
+                "title": "The Best of Sherlock Holmes",
+                "authors": [
+                    "Arthur Conan Doyle",
+                    "David Stuart Davies"
+                ],
+                "publisher": "Collector's Library",
+                "publishedDate": "2009",
+                "description": ".0000000000These fifteen short stories, chosen by David Stuart Davies, former Editor of Sherlock magazine, show the master detective Sherlock Holmes at his most ingenious. Faithfully supported by his chronicler, Dr Watson, Holmes pits his wits against 'the Napoleon of Crime', Professor Moriarty, assists European royalty threatened by disgrace, helps to solve the mysterious death of a young woman due to be married, and becomes involved with other intrigues that defeat the detectives of Scotland Yard. The original illustrations from The Strand magazine by Sidney Paget accompany each story.",
+                "industryIdentifiers": [
+                    {
+                        "type": "ISBN_10",
+                        "identifier": "1905716559"
+                    },
+                    {
+                        "type": "ISBN_13",
+                        "identifier": "9781905716555"
+                    }
+                ],
+                "readingModes": {
+                    "text": false,
+                    "image": true
+                },
+                "pageCount": 544,
+                "printType": "BOOK",
+                "categories": [
+                    "Fiction"
+                ],
+                "averageRating": 5,
+                "ratingsCount": 2,
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": false,
+                "contentVersion": "1.2.0.0.preview.1",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=UomtUqgaJlkC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=UomtUqgaJlkC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+                },
+                "language": "en",
+                "previewLink": "http://books.google.co.in/books?id=UomtUqgaJlkC&printsec=frontcover&dq=sherlock&hl=&cd=10&source=gbs_api",
+                "infoLink": "http://books.google.co.in/books?id=UomtUqgaJlkC&dq=sherlock&hl=&source=gbs_api",
+                "canonicalVolumeLink": "https://books.google.com/books/about/The_Best_of_Sherlock_Holmes.html?hl=&id=UomtUqgaJlkC"
+            },
+            "saleInfo": {
+                "country": "IN",
+                "saleability": "NOT_FOR_SALE",
+                "isEbook": false
+            },
+            "accessInfo": {
+                "country": "IN",
+                "viewability": "PARTIAL",
+                "embeddable": true,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": false
+                },
+                "pdf": {
+                    "isAvailable": false
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=UomtUqgaJlkC&hl=&printsec=frontcover&source=gbs_api",
+                "accessViewStatus": "SAMPLE",
+                "quoteSharingAllowed": false
+            },
+            "searchInfo": {
+                "textSnippet": "0000000000These fifteen short stories, chosen by David Stuart Davies, former Editor of Sherlock magazine, show the master detective Sherlock Holmes at his most ingenious."
+            }
+        }
+    ]
+}
